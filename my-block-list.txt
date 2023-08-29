@@ -10,3 +10,8 @@ googlesyndication.com
 adsrvr.org
 ssl.google-analytics.com
 static.doubleclick.net
+trafficjunky.net
+adtng.com
+script.hotjar.com
+app-measurement.com
+etahub.com
