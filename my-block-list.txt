@@ -112,3 +112,4 @@ weather-analytics-events.apple.com
 notes-analytics-events.apple.com
 metrics.apple.com
 nmetrics.samsung.com
+googleanalytics.com
