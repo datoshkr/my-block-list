@@ -1,1 +1,2 @@
+collector.github.com
 api.mixpanel.com
