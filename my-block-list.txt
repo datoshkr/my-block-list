@@ -1,2 +1,12 @@
 collector.github.com
 api.mixpanel.com
+g.doubleclick.net
+fls.doubleclick.net
+crazyegg.com
+bam.nr-data.net
+googleoptimize.com
+footprintdns.com
+googlesyndication.com
+adsrvr.org
+ssl.google-analytics.com
+static.doubleclick.net
