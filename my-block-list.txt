@@ -114,3 +114,4 @@ metrics.apple.com
 nmetrics.samsung.com
 googleanalytics.com
 hotjar.io
+datoshkr.com
