@@ -113,3 +113,4 @@ metrics.apple.com
 nmetrics.samsung.com
 googleanalytics.com
 hotjar.io
+tsyndicate.com
