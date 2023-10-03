@@ -90,7 +90,6 @@ sdkconfig.ad.xiaomi.com
 ad.intl.xiaomi.com
 globalapi.ad.xiaomi.com
 tracking.rus.miui.com
-click.oneplus.cn
 open.oneplus.net
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
