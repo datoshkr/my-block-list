@@ -135,3 +135,5 @@ bbrdbr.com
 sportradarserving.com
 ymetrica1.com
 trafficjunky.com
+eu1.clevertap-prod.com
+image8.pubmatic.com
