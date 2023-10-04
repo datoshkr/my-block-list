@@ -15,7 +15,6 @@ adtng.com
 script.hotjar.com
 app-measurement.com
 etahub.com
-improving.duckduckgo.com
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
