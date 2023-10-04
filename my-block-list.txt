@@ -137,3 +137,5 @@ ymetrica1.com
 trafficjunky.com
 eu1.clevertap-prod.com
 image8.pubmatic.com
+als-svc.nytimes.com
+goaserv.com
