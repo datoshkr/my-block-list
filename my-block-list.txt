@@ -140,3 +140,9 @@ image8.pubmatic.com
 als-svc.nytimes.com
 i.isnssdk.com
 appmetrica.yandex.net
+beacons.gvt2.com
+beacons.gcp.gvt2.com
+s3t3d2y8.afcdn.net
+optnx.com
+api.xtremepush.com
+beacons4.gvt2.com
