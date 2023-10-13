@@ -221,3 +221,7 @@ trafmag.com
 tags.bluekai.com
 admixer.net
 s-cs.rmp.rakuten.com
+track.hubspot.com
+hs-banner.com
+hsadspixel.net
+hs-analytics.net
