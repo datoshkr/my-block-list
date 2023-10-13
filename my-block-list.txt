@@ -191,3 +191,4 @@ hbopenbid.pubmatic.com
 3lift.com
 mcdp-sadc1.outbrain.com
 player.aniview.com
+outbrainimg.com
