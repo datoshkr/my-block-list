@@ -227,3 +227,4 @@ hsadspixel.net
 hs-analytics.net
 nativesdks.mparticle.com
 marketo.net
+browser-intake-datadoghq.com
