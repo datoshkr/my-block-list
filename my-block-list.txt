@@ -209,3 +209,4 @@ trc.taboola.com
 brainlyads.com
 fastclick.net
 tr.outbrain.com
+intentiq.com
