@@ -193,3 +193,12 @@ mcdp-sadc1.outbrain.com
 player.aniview.com
 outbrainimg.com
 casalemedia.com
+inventory.vidazoo.com
+cdn.indexww.com
+widgetmonitor.outbrain.com
+static.vidazoo.com
+id5-sync.com
+pips.taboola.com
+libs.outbrain.com
+criteo.net
+eu-1-id5-sync.com
