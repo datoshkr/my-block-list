@@ -214,3 +214,10 @@ pbxai.com
 amplify.outbrain.com
 ad-score.com
 widgets.outbrain.com
+clarity.ms
+banners.myads.ge
+c.bing.com
+trafmag.com
+tags.bluekai.com
+admixer.net
+s-cs.rmp.rakuten.com
