@@ -213,3 +213,4 @@ intentiq.com
 pbxai.com
 amplify.outbrain.com
 ad-score.com
+widgets.outbrain.com
