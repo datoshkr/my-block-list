@@ -212,3 +212,4 @@ tr.outbrain.com
 intentiq.com
 pbxai.com
 amplify.outbrain.com
+ad-score.com
