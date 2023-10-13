@@ -202,3 +202,4 @@ pips.taboola.com
 libs.outbrain.com
 criteo.net
 eu-1-id5-sync.com
+crwdcntrl.net
