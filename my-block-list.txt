@@ -192,3 +192,4 @@ hbopenbid.pubmatic.com
 mcdp-sadc1.outbrain.com
 player.aniview.com
 outbrainimg.com
+casalemedia.com
