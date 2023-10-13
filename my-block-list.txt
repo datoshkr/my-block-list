@@ -204,3 +204,4 @@ criteo.net
 eu-1-id5-sync.com
 crwdcntrl.net
 mv.outbrain.com
+cdn.taboola.com
