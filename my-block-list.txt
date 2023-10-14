@@ -226,3 +226,5 @@ marketo.net
 browser-intake-datadoghq.com
 tr.www.cloudflare.com
 blockadblock.com
+ats.everesttech.net
+impactradius-event.com
