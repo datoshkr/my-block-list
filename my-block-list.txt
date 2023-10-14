@@ -301,3 +301,4 @@ fnbauniukvi.com
 snowplow-pixel.tradingview.com
 telemetry.tradingview.com
 smartadserver.com
+fuseplatform.net
