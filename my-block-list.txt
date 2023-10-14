@@ -300,3 +300,4 @@ xlrdr.com
 fnbauniukvi.com
 snowplow-pixel.tradingview.com
 telemetry.tradingview.com
+smartadserver.com
