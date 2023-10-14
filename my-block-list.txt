@@ -252,3 +252,4 @@ c.clicktale.net
 tynt.com
 simpli.fi
 amung.us
+buttons-config.sharethis.com
