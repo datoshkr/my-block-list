@@ -248,3 +248,4 @@ cdn.webpushr.com
 s-onetag.com
 count-server.sharethis.com
 lijit.com
+c.clicktale.net
