@@ -250,3 +250,4 @@ count-server.sharethis.com
 lijit.com
 c.clicktale.net
 tynt.com
+simpli.fi
