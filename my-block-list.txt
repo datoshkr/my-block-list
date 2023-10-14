@@ -228,3 +228,12 @@ tr.www.cloudflare.com
 blockadblock.com
 ats.everesttech.net
 impactradius-event.com
+mcs-sg.tiktok.com
+mon.tiktokv.com
+w55c.net
+adgrx.com
+pixel.rubiconproject.com
+pixel-eu.rubiconproject.com
+mssdk-sg.byteoversea.com
+mgid.com
+mssdk-sg.tiktok.com
