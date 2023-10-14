@@ -237,3 +237,5 @@ pixel-eu.rubiconproject.com
 mssdk-sg.byteoversea.com
 mgid.com
 mssdk-sg.tiktok.com
+contentsquare.net
+webpu.sh
