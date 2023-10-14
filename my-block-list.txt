@@ -303,3 +303,4 @@ telemetry.tradingview.com
 smartadserver.com
 fuseplatform.net
 33across.com
+api.iterable.com
