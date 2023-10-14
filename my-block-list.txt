@@ -318,3 +318,8 @@ cdn.playwire.com
 leadplace.fr
 bttrack.com
 loopme.me
+dingplague.com
+pagefair.com
+cloudimagesb.com
+ced.sascdn.com
+missena.io
