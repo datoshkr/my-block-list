@@ -24,7 +24,6 @@ pagead2.googleadservices.com
 adcolony.com
 m.doubleclick.net
 mediavisor.doubleclick.net
-media.net
 adm.hotjar.com
 identify.hotjar.com
 insights.hotjar.com
@@ -108,7 +107,6 @@ api-adservices.apple.com
 books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
-metrics.apple.com
 nmetrics.samsung.com
 googleanalytics.com
 hotjar.io
@@ -318,7 +316,6 @@ cdn.playwire.com
 leadplace.fr
 bttrack.com
 loopme.me
-dingplague.com
 pagefair.com
 cloudimagesb.com
 ced.sascdn.com
