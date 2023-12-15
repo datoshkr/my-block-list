@@ -325,3 +325,4 @@ firebaselogging.googleapis.com
 beacons5.gvt3.com
 ad.gt
 adservetx.media.net
+tapad.com
