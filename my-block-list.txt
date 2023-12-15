@@ -340,3 +340,4 @@ adpartner.pro
 acdn.adnxs.com
 e-planning.net
 rlcdn.com
+teads.tv
