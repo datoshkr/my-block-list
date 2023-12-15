@@ -336,3 +336,4 @@ fastlane.rubiconproject.com
 adscale.de
 creativecdn.com
 seedtag.com
+adpartner.pro
