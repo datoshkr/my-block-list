@@ -333,3 +333,4 @@ token.rubiconproject.com
 moatads.com
 r2b2-emea.adnxs.com
 fastlane.rubiconproject.com
+adscale.de
