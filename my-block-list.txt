@@ -328,3 +328,4 @@ adservetx.media.net
 tapad.com
 contextweb.com
 click.oneplus.cn
+turn.com
