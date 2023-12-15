@@ -342,3 +342,4 @@ e-planning.net
 rlcdn.com
 teads.tv
 zemanta.com
+cdn.adapex.io
