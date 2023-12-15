@@ -344,3 +344,4 @@ teads.tv
 zemanta.com
 cdn.adapex.io
 wtg-ads.com
+bmcdn6.com
