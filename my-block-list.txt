@@ -323,3 +323,4 @@ ls.hit.gemius.pl
 trgde.adocean.pl
 firebaselogging.googleapis.com
 beacons5.gvt3.com
+ad.gt
