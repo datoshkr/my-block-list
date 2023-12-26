@@ -346,3 +346,7 @@ cdn.adapex.io
 wtg-ads.com
 bmcdn6.com
 d3u598arehftfk.cloudfront.net
+a-mx.com
+adtelligent.com
+prebid.media.net
+iqzone.com
