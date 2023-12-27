@@ -524,3 +524,4 @@ adfpoint.com
 websdk.appsflyer.com
 wa.appsflyer.com
 shaumtol.com
+cvastico.com
