@@ -457,3 +457,4 @@ static.ziffdavis.com
 improving.duckduckgo.com
 histats.com
 xml.zaimads.com
+bidderads.com
