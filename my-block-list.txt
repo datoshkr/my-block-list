@@ -447,3 +447,11 @@ cdn.exmarketplace.com
 keefeezo.net
 infolinks.com
 playstream.media
+region1.analytics.google.com
+tps.doubleverify.com
+cdn.doubleverify.com
+dpmsrv.com
+gekko.spiceworks.com
+gurgle.zdbb.net
+static.ziffdavis.com
+improving.duckduckgo.com
