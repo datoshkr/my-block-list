@@ -522,3 +522,4 @@ orquideassp.com
 combitly.com
 adfpoint.com
 websdk.appsflyer.com
+wa.appsflyer.com
