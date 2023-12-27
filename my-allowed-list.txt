@@ -1,2 +1,3 @@
 securepubads.g.doubleclick.net
 pagead2.googlesyndication.com
+cdn.bmcdn6.com
