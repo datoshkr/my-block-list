@@ -324,7 +324,6 @@ trgde.adocean.pl
 firebaselogging.googleapis.com
 beacons5.gvt3.com
 ad.gt
-adservetx.media.net
 tapad.com
 contextweb.com
 click.oneplus.cn
@@ -348,9 +347,7 @@ bmcdn6.com
 d3u598arehftfk.cloudfront.net
 a-mx.com
 adtelligent.com
-prebid.media.net
 iqzone.com
-hbx.media.net
 liadm.com
 guigebichir.website
 collowhypoxis.com
