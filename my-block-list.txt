@@ -8,7 +8,6 @@ googleoptimize.com
 footprintdns.com
 googlesyndication.com
 adsrvr.org
-ssl.google-analytics.com
 static.doubleclick.net
 trafficjunky.net
 adtng.com
@@ -134,7 +133,6 @@ sportradarserving.com
 ymetrica1.com
 trafficjunky.com
 eu1.clevertap-prod.com
-image8.pubmatic.com
 als-svc.nytimes.com
 i.isnssdk.com
 appmetrica.yandex.net
@@ -168,8 +166,6 @@ exelator.com
 lovelydrum.com
 quantserve.com
 ml314.com
-t.pubmatic.com
-image6.pubmatic.com
 6sc.co
 quantcount.com
 dggaenaawxe8z.cloudfront.net
@@ -184,7 +180,6 @@ cootlogix.com
 a-mo.net
 nextmillmedia.com
 ib.adnxs.com
-hbopenbid.pubmatic.com
 3lift.com
 player.aniview.com
 outbrainimg.com
@@ -236,7 +231,6 @@ mssdk-sg.byteoversea.com
 mgid.com
 mssdk-sg.tiktok.com
 contentsquare.net
-webpu.sh
 apester.com
 connectad.io
 inspectlet.com
@@ -272,13 +266,11 @@ coinzilla.io
 czilladx.com
 coinzillatag.com
 tvpixel.com
-www-alv.google-analytics.com
 yadro.ru
 adsession.com
 ktkjmp.com
 q.quora.com
 xlviiirdr.com
-hpyrdr.com
 w3-reporting.reddit.com
 ksehinkitw.hair
 profitablegatetocontent.com
@@ -358,7 +350,6 @@ sync-tm.everesttech.net
 adingo.jp
 c2shb.pubgw.yahoo.com
 pr-bh.ybp.yahoo.com
-image2.pubmatic.com
 eskimi.com
 prebid-server.rubiconproject.com
 smaato.net
@@ -403,7 +394,6 @@ runative-syndicate.com
 vlitag.com
 banquetunarmedgrater.com
 p2e9r4n9.stackpathcdn.com
-openbid.pubmatic.com
 ctengine.io
 asacdn.com
 youradexchange.com
@@ -513,7 +503,6 @@ datatechone.com
 adschill.com
 multstorage.com
 gmxvmvptfm.com
-fmwzfwzxztu.com
 push-sdk.com
 orquideassp.com
 combitly.com
@@ -531,7 +520,6 @@ bookmsg.com
 galaxypush.com
 psaltauw.net
 uuidksinc.net
-unative.com
 unblockia.com
 oungimuk.net
 cache.consentframework.com
