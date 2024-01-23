@@ -551,3 +551,4 @@ sessions.bugsnag.com
 trk.pinterest.com
 data.mistat.xiaomi.com
 data.mistat.rus.xiaomi.com
+firstimpression.io
