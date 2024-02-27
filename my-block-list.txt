@@ -109,7 +109,6 @@ nmetrics.samsung.com
 googleanalytics.com
 hotjar.io
 tsyndicate.com
-xlivrdr.com
 h-ay.com
 exoclick.com
 magsrv.com
@@ -124,10 +123,8 @@ onpluslean.com
 rtmark.net
 boxlivegarden.com
 exdynsrv.com
-xlirdr.com
 goaserv.com
 connextra.com
-bbrdbr.com
 sportradarserving.com
 ymetrica1.com
 trafficjunky.com
@@ -135,16 +132,12 @@ eu1.clevertap-prod.com
 als-svc.nytimes.com
 i.isnssdk.com
 appmetrica.yandex.net
-beacons.gvt2.com
-beacons.gcp.gvt2.com
 s3t3d2y8.afcdn.net
 optnx.com
 api.xtremepush.com
-beacons4.gvt2.com
 webmedrtb.com
 bestxxxaction.com
 amunfezanttor.com
-tapioni.com
 bigrourg.net
 videocampaign.co
 pemsrv.com
@@ -177,7 +170,6 @@ bs.yandex.ru
 criteo.com
 cootlogix.com
 a-mo.net
-nextmillmedia.com
 ib.adnxs.com
 3lift.com
 player.aniview.com
@@ -256,8 +248,6 @@ btloader.com
 bizible.com
 cnt.xhamster.com
 w.usabilla.com
-xliirdr.com
-xxxviijmp.com
 collector.xhamster.com
 logger.nerdwallet.com
 bmcdn3.com
@@ -267,7 +257,6 @@ coinzillatag.com
 tvpixel.com
 yadro.ru
 adsession.com
-ktkjmp.com
 q.quora.com
 xlviiirdr.com
 w3-reporting.reddit.com
@@ -284,7 +273,6 @@ barscreative1.com
 friendshipmale.com
 usjbwvtqwv.com
 lby2kd27c.com
-xlrdr.com
 fnbauniukvi.com
 snowplow-pixel.tradingview.com
 telemetry.tradingview.com
@@ -336,7 +324,6 @@ cdn.adapex.io
 wtg-ads.com
 bmcdn6.com
 d3u598arehftfk.cloudfront.net
-a-mx.com
 adtelligent.com
 iqzone.com
 liadm.com
@@ -459,7 +446,6 @@ bmcdn5.com
 unibots.in
 intellipopup.com
 saptorge.com
-primalredfish.com
 dynspt.com
 cuddlethehyena.com
 nanesbewail.com
@@ -500,7 +486,6 @@ cdn4ads.com
 xml.adflyer.media
 datatechone.com
 adschill.com
-multstorage.com
 gmxvmvptfm.com
 push-sdk.com
 orquideassp.com
@@ -509,7 +494,6 @@ adfpoint.com
 websdk.appsflyer.com
 wa.appsflyer.com
 shaumtol.com
-cvastico.com
 nereserv.com
 f83d8a9867.com
 ntvpforever.com
@@ -531,7 +515,6 @@ sddan.com
 mon.isnssdk.com
 airlytics.airlock.twcmobile.weather.com
 google-analytics.com
-iad-06.braze.com
 popcash.net
 pubmatic.com
 groupian.io
@@ -540,7 +523,6 @@ cdnfimgs.com
 absurdapple.com
 viewyentreat.guru
 blehcourt.com
-mndsrv.com
 orqrdm.com
 vampersyacal.com
 oestpq.com
