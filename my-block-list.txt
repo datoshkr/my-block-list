@@ -5,7 +5,6 @@ fls.doubleclick.net
 crazyegg.com
 bam.nr-data.net
 googleoptimize.com
-
 googlesyndication.com
 adsrvr.org
 static.doubleclick.net
@@ -123,7 +122,6 @@ onpluslean.com
 rtmark.net
 boxlivegarden.com
 exdynsrv.com
-
 connextra.com
 sportradarserving.com
 ymetrica1.com
@@ -134,7 +132,6 @@ i.isnssdk.com
 appmetrica.yandex.net
 s3t3d2y8.afcdn.net
 optnx.com
-
 webmedrtb.com
 bestxxxaction.com
 amunfezanttor.com
@@ -158,11 +155,9 @@ exelator.com
 lovelydrum.com
 quantserve.com
 ml314.com
-
 quantcount.com
 dggaenaawxe8z.cloudfront.net
 ay.delivery
-
 richaudience.com
 bidswitch.net
 4dex.io
@@ -172,14 +167,11 @@ cootlogix.com
 a-mo.net
 ib.adnxs.com
 3lift.com
-
 outbrainimg.com
 casalemedia.com
 cdn.indexww.com
-
 id5-sync.com
 pips.taboola.com
-
 criteo.net
 eu-1-id5-sync.com
 crwdcntrl.net
@@ -191,7 +183,6 @@ fastclick.net
 tr.outbrain.com
 intentiq.com
 pbxai.com
-
 ad-score.com
 widgets.outbrain.com
 clarity.ms
@@ -200,7 +191,6 @@ c.bing.com
 trafmag.com
 tags.bluekai.com
 admixer.net
-
 track.hubspot.com
 hs-banner.com
 hsadspixel.net
@@ -221,7 +211,6 @@ pixel-eu.rubiconproject.com
 mssdk-sg.byteoversea.com
 mgid.com
 mssdk-sg.tiktok.com
-
 apester.com
 connectad.io
 inspectlet.com
@@ -231,12 +220,10 @@ cdn.webpushr.com
 s-onetag.com
 count-server.sharethis.com
 lijit.com
-
 tynt.com
 simpli.fi
 amung.us
 buttons-config.sharethis.com
-
 s1.adform.net
 eyeota.net
 onaudience.com
@@ -253,11 +240,9 @@ logger.nerdwallet.com
 bmcdn3.com
 coinzilla.io
 czilladx.com
-
 tvpixel.com
 yadro.ru
 adsession.com
-
 xlviiirdr.com
 w3-reporting.reddit.com
 ksehinkitw.hair
@@ -266,7 +251,6 @@ store4porn.com
 platform-api.sharethis.com
 ukdliketobepa.monster
 bbangads.b-cdn.net
-
 dendranthe4edm7um.com
 sofinpushpile.com
 barscreative1.com
@@ -313,7 +297,6 @@ r2b2-emea.adnxs.com
 fastlane.rubiconproject.com
 adscale.de
 creativecdn.com
-
 adpartner.pro
 acdn.adnxs.com
 e-planning.net
@@ -337,7 +320,6 @@ adingo.jp
 c2shb.pubgw.yahoo.com
 pr-bh.ybp.yahoo.com
 eskimi.com
-
 smaato.net
 adskeeper.com
 adskeeper.co.uk
@@ -389,7 +371,6 @@ oralmaliciousmonday.com
 pogothere.xyz
 zap.buzz
 olivedinflats.space
-
 xadsmart.com
 livetrafficfeed.com
 profitablecpmgate.com
@@ -409,18 +390,14 @@ d22lbkjf2jpzr9.cloudfront.net
 adrta.com
 taghaugh.com
 deriv.com
-
-
 jotpoolwarren.com
 vipads.live
 in-page-push.com
 eehuzaih.com
 cheeroredraw.com
-
 keefeezo.net
 infolinks.com
 playstream.media
-
 tps.doubleverify.com
 cdn.doubleverify.com
 dpmsrv.com
@@ -476,7 +453,6 @@ vidoomy.com
 notix.io
 tags.refinery89.com
 cameesse.net
-
 passeura.com
 cryptocoinsad.com
 d24ak3f2b.top
@@ -510,7 +486,6 @@ ibrapush.com
 bygliscortor.com
 littlecdn.com
 veepteero.com
-
 sddan.com
 mon.isnssdk.com
 airlytics.airlock.twcmobile.weather.com
